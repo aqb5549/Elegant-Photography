@@ -209,35 +209,43 @@ equiptment in order to feel like that!</p>
 <h3>4. Limitations</h3>
 
 <p>
-	In no event shall Row 3 photography or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Row 3 photography's Internet site, even if Row 3 photography or a Row 3 photography authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+<li>	In no event shall Row 3 photography or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Row 3 photography's Internet site, even if Row 3 photography or a Row 3 photography authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+</li>
 </p>
 			
 <h3>5. Revisions </h3>
 
 <p>
-	The materials appearing on Row 3 photography's web site could include technical, typographical, or photographic errors. Row 3 photography does not warrant that any of the materials on its web site are accurate, complete, or current. Row 3 photography may make changes to the materials contained on its web site at any time without notice. Row 3 photography does not, however, make any commitment to update the materials.
+<li>	The materials appearing on Row 3 photography's web site could include technical, typographical, or photographic errors. Row 3 photography does not warrant that any of the materials on its web site are accurate, complete, or current. Row 3 photography may make changes to the materials contained on its web site at any time without notice. Row 3 photography does not, however, make any commitment to update the materials.
+</li>
 </p>
 
 <h3>6. Links</h3>
 
 <p>
+<li>
 	Row 3 photography has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Row 3 photography of the site. Use of any such linked web site is at the user's own risk.
+</li>
 </p>
 
 <h3>7. Site Terms of Use Modifications</h3>
 
 <p>
-	Row 3 photography may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+<li>	Row 3 photography may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+</li>
 </p>
 
 <h3>8. Governing Law</h3>
 
 <p>
-	Any claim relating to Row 3 photography's web site shall be governed by the laws of the State of Pennsylvania without regard to its conflict of law provisions.
+<li>	Any claim relating to Row 3 photography's web site shall be governed by the laws of the State of Pennsylvania without regard to its conflict of law provisions.
+</li>
 </p>
 
 <p>
+<li>
 	General Terms and Conditions applicable to Use of a Web Site.
+</li>
 </p>
 
 
@@ -247,7 +255,9 @@ equiptment in order to feel like that!</p>
 </h2>
 
 <p>
+<li>
 	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+</li>
 </p>
 
 <ul>
