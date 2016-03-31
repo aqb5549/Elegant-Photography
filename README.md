@@ -130,7 +130,7 @@
         
        <div id="home"> 
 
-<h1>Welcome To Group Fours Webpage</h1> 
+<h1>Welcome To Group Four's Webpage</h1> 
 <p> 
 Here on our website, you will get the opprotunity to rent camera equiptment 
 for your own personal use. We have the best camera equiptment for anyone to rent, at an affordable price.
@@ -156,8 +156,8 @@ equiptment in order to feel like that!</p>
         </div>
         <!-----------------------------Rent AREA---------------------------->
         <div id="rent" style="display:none">
-            <h1>Rental Equiptment</h1>
-           	<p>We are a website and a company that takes pictures for any occasion. You can hire us to take the picture or rent equipment to do it yourself. </p>
+            <h1>Rent the Equiptment</h1>
+           	<p> You can hire us to take the picture or rent the equipment to do it yourself. </p>
         </div>
 
 <!-----------------------------TERMS AREA-----------------------------(Source: http://www.bennadel.com/coldfusion/privacy-policy-generator.htm#primary-navigation)-->
