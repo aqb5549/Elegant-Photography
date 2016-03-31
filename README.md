@@ -130,7 +130,7 @@
         
        <div id="home"> 
 
-<h1>Welcome To Group Four's Webpage</h1> 
+<h1>Welcome To Row Three's Webpage</h1> 
 <p> 
 Here on our website, you will get the opprotunity to rent camera equiptment 
 for your own personal use. We have the best camera equiptment for anyone to rent, at an affordable price.
