@@ -1,0 +1,84 @@
+﻿/*!
+ * Start Bootstrap - Thumbnail Gallery HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+body
+{
+	width:100%;
+}
+p {
+    
+    color: black;
+}
+.slide-image {
+    width: 100%;
+}
+.carousel-holder {
+    margin-bottom: 20px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+ol
+{
+	
+	color:black;
+}
+li
+{
+	color:black;
+}
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+.img circle {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  border-radius: 100px;
+  background-size: 130%;   
+}
+
+footer {
+    margin: 50px 0;
+}
